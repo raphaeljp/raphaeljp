@@ -25,7 +25,4 @@ Some things about me:
 ---
 
 <img align="left" alt="raphaeljp's Github Status" src="https://github-readme-stats.vercel.app/api?username=raphaeljp&show_icons=true&hide_border=true&count_private=true" /> 
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeljp)](https://github.com/anuraghazra/github-readme-stats)
