@@ -21,3 +21,7 @@ Some things about me:
 - 🌱 I’m currently learning NestJS and DevOps
 - 👯 I’m looking to collaborate on projects that will make people live better
 - 💬 Ask me anything about JavaScript / TypeScript
+
+---
+
+<img align="left" alt="raphaeljp's Github Status" src="https://github-readme-stats.vercel.app/api?username=raphaeljp&show_icons=true&hide_border=true" /> 
