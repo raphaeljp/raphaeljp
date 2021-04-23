@@ -17,10 +17,10 @@ As a fun fact, I have a background as a graphics designer, which leads me to enj
 
 Some things about me: 
 
-- 🔭 I’m currently working at [Bayer Crop Science](https://www.linkedin.com/company/bayer-cropscience/)
-- 🌱 I’m currently learning NestJS and DevOps
-- 👯 I’m looking to collaborate on projects that will make people live better
-- 💬 Ask me anything about JavaScript / TypeScript
+- 🔭  I’m currently working at [Dog & Pony Studios](https://www.linkedin.com/company/dog-and-pony-studios)
+- 🌱  I’m currently learning DevOps
+- 👯  I’m looking to collaborate on projects that will make people live better
+- 💬  Ask me anything about JavaScript / TypeScript
 
 ---
 
